@@ -1,6 +1,6 @@
 # ALGOTraining
 Personal algorithm training
 
-This place is where I goof around with some dumbshit so please,
+This place is where I goof around with some dumbshit.
 
-<b>DO NOT DISTURB<b/>
+So please, <b>DO NOT DISTURB<b/>
